@@ -2,7 +2,7 @@
 A full automated Trading Bot for Meme Coin Trading!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![JavaScript]((https://img.shields.io/badge/logo-javascript-blue?logo=javascript))]([https://www.java.com/de/download/manual.jsp])
 
 An AI-powered trading bot designed to automate meme-coin trading using real-time market analysis, sentiment detection, and risk management. Built for speed, efficiency, and maximum memeability. 💸📈
 
